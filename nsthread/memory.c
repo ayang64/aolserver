@@ -95,10 +95,9 @@ ns_strcopy(const char *old)
 char *
 ns_strdup(const char *old)
 {
-    char *new;
+	if (old == NULL)
+		return NULL;
 
-    new = ns_malloc(strlen(old) + 1);
-    strcpy(new, old);
-
-    return new;
+	char *new = ns_malloc(strlen(old) + 1);
+	return strcpy(new, old);
 }
