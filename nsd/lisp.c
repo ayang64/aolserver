@@ -92,7 +92,7 @@ Ns_ListCons(void *elem, Ns_List *lPtr)
 {
     Ns_List *newlPtr;
 
-    newlPtr = (Ns_List *) ns_malloc(sizeof(Ns_List));
+    newlPtr = ns_malloc(sizeof(Ns_List));
     newlPtr->first = elem;
     newlPtr->rest = lPtr;
     return newlPtr;
