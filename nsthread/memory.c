@@ -76,14 +76,13 @@ ns_free(void *ptr)
 void *
 ns_calloc(size_t num, size_t esize)
 {
-    void *new;
-    size_t size;
+	size_t size = num * esize;
 
-    size = num * esize;
-    new = ns_malloc(size);
-    memset(new, 0, size);
+	void *rc = ns_malloc(size);
 
-    return new;
+	memset(rc, 0, size);
+
+	return rc;
 }
 
 char *
