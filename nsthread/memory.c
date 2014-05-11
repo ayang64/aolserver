@@ -58,7 +58,7 @@ static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nst
 void *
 ns_realloc(void *ptr, size_t size)
 {
-    return (ptr ? Tcl_Realloc(ptr, size) : Tcl_Alloc(size));
+    return Tcl_Realloc(ptr, size);
 }
 
 void *
