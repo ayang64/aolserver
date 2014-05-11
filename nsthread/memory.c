@@ -58,13 +58,13 @@ static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nst
 void *
 ns_realloc(void *ptr, size_t size)
 {
-    return Tcl_Realloc(ptr, size);
+	return Tcl_Realloc(ptr, size);
 }
 
 void *
 ns_malloc(size_t size)
 {
-    return Tcl_Alloc(size);
+	return Tcl_Alloc(size);
 }
 
 void
@@ -98,5 +98,6 @@ ns_strdup(const char *old)
 		return NULL;
 
 	char *new = ns_malloc(strlen(old) + 1);
+
 	return strcpy(new, old);
 }
