@@ -70,9 +70,7 @@ ns_malloc(size_t size)
 void
 ns_free(void *ptr)
 {
-    if (ptr != NULL) {
 	Tcl_Free(ptr);
-    }
 }
 
 void *
