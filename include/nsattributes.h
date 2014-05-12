@@ -116,6 +116,4 @@
 
 #endif /* __GNUC__PREREQ */
 
-    ", compiled: " __DATE__ " " __TIME__
-
 #endif /* NSATTRS_H */
