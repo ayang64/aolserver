@@ -34,7 +34,6 @@
  *	Listen for the external driver. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nspd/listen.c,v 1.3 2000/08/02 23:38:25 kriston Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "pd.h"
 #define DEV_NULL        "/dev/null"

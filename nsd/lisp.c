@@ -34,7 +34,6 @@
  *	Commands for manipulating lists. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/lisp.c,v 1.6 2003/03/07 18:08:27 vasiljevic Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

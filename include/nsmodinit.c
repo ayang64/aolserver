@@ -33,7 +33,6 @@
  *	Dynamic module init.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/include/nsmodinit.c,v 1.2 2005/08/11 23:00:13 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "ns.h"
 

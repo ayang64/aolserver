@@ -34,7 +34,6 @@
  *	Example AOLserver main() startup routine.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/main.c,v 1.8 2002/09/28 19:24:03 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "ns.h"
 

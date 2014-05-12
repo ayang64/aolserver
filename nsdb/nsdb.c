@@ -33,7 +33,6 @@
  *	Database module entry point.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsdb/nsdb.c,v 1.3 2005/08/08 11:32:17 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "db.h"
 

@@ -34,7 +34,6 @@
  *	Connection local storage.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/cls.c,v 1.1 2001/03/13 16:43:57 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

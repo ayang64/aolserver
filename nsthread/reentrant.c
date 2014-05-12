@@ -35,7 +35,6 @@
  *	data buffers.  See the corresponding manual page for details.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsthread/reentrant.c,v 1.3 2006/04/14 15:45:51 shmooved Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "thread.h"
 

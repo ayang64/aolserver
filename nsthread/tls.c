@@ -35,7 +35,6 @@
  *	library handles thread local storage directly.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsthread/tls.c,v 1.4 2005/03/25 00:39:59 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "thread.h"
 

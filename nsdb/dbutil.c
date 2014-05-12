@@ -34,7 +34,6 @@
  *	Utility db routines.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsdb/dbutil.c,v 1.1 2002/05/15 20:17:49 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "db.h"
 

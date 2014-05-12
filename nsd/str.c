@@ -34,7 +34,6 @@
  *	Functions that deal with strings. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/str.c,v 1.6 2004/06/08 19:28:57 rcrittenden0569 Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

@@ -33,7 +33,6 @@
  *	Simple main for ns_proxy slave.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsproxy/nsproxy.c,v 1.2 2009/03/08 11:26:58 gneumann Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsproxy.h"
 

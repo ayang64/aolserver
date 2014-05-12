@@ -33,7 +33,6 @@
  *	Library for ns_proxy commands and main loops.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsproxy/nsproxylib.c,v 1.8 2009/03/08 11:31:12 gneumann Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsproxy.h"
 #include <poll.h>

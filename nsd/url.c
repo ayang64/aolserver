@@ -34,7 +34,6 @@
  *	Parse URLs.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/url.c,v 1.5 2001/03/13 16:46:02 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

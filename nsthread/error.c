@@ -34,7 +34,6 @@
  *	Routines for dealing with fatal errors.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsthread/error.c,v 1.3 2005/08/23 21:41:40 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "thread.h"
 

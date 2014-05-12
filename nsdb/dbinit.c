@@ -35,7 +35,6 @@
  *	pools of database handles.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsdb/dbinit.c,v 1.5 2004/02/05 17:50:53 dossy Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "db.h"
 

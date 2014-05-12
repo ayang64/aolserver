@@ -34,7 +34,6 @@
  *	Implement the index data type. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/index.c,v 1.5 2003/03/07 18:08:26 vasiljevic Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

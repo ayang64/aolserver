@@ -27,7 +27,6 @@
  * version of this file under either the License or the GPL.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/sched.c,v 1.14 2003/03/10 16:02:05 mpagenva Exp $, compiled: " __DATE__ " " __TIME__;
 
 /*
  * sched.c --

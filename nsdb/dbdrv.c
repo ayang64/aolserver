@@ -34,7 +34,6 @@
  *	Routines for handling the loadable db driver interface.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsdb/dbdrv.c,v 1.2 2004/06/20 15:54:01 seryakov Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "db.h"
 

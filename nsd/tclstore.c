@@ -33,7 +33,6 @@
  *	Thread and connection local storage Tcl commands.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/tclstore.c,v 1.1 2009/12/08 04:12:20 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

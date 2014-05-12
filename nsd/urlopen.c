@@ -33,7 +33,6 @@
  *	Make outgoing HTTP requests.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/urlopen.c,v 1.17 2003/12/28 00:22:06 scottg Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

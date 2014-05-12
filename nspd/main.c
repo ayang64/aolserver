@@ -34,7 +34,6 @@
  *	The proxy-side library for external drivers. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nspd/main.c,v 1.8 2003/03/07 18:08:49 vasiljevic Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "pd.h"
 #include "nspd.h"

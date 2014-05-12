@@ -109,7 +109,6 @@
  *
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsext/nsext.c,v 1.13 2008/12/05 08:51:44 gneumann Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsdb.h"
 #include "nsextmsg.h"

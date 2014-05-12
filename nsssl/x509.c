@@ -53,7 +53,6 @@
  *
  */
 
-static const char *RCSID = "@(#): $Header: /Users/dossy/Desktop/cvs/aolserver/nsssl/x509.c,v 1.2 2001/04/24 19:43:26 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 
 #include "ns.h"

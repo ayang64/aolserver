@@ -34,7 +34,6 @@
  *	and cleanup trace.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsproxy/nsproxymod.c,v 1.1 2006/04/19 18:55:09 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsproxy.h"
 

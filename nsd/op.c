@@ -34,7 +34,6 @@
  *  	routines (previously known as "op procs").
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/op.c,v 1.15 2005/10/07 00:48:23 dossy Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

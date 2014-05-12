@@ -116,7 +116,6 @@
 
 #endif /* __GNUC__PREREQ */
 
-#define NS_RCSID(string) static const char *RCSID _nsunused = string \
     ", compiled: " __DATE__ " " __TIME__
 
 #endif /* NSATTRS_H */

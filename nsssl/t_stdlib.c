@@ -52,7 +52,6 @@
  *
  */
 
-static const char *RCSID = "@(#): $Header: /Users/dossy/Desktop/cvs/aolserver/nsssl/t_stdlib.c,v 1.1 2001/04/23 21:06:01 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 /* Copyright (C) RSA Data Security, Inc. created 1992.
 

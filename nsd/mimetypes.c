@@ -34,7 +34,6 @@
  *	Defines standard default mime types. 
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/mimetypes.c,v 1.13 2005/09/27 02:26:27 shmooved Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 #define TYPE_DEFAULT "*/*"

@@ -33,7 +33,6 @@
  *	Dynamic library init.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/include/nslibinit.c,v 1.2 2005/08/08 15:33:01 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "ns.h"
 

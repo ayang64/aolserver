@@ -34,7 +34,6 @@
  *	Implement Tcl_Obj type for AOLserver Ns_Time.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/tclobj.c,v 1.7 2006/04/13 19:06:54 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

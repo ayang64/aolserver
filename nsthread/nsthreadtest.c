@@ -48,7 +48,6 @@
 #define PTHREAD_TEST 1
 #endif
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsthread/nsthreadtest.c,v 1.6 2005/08/08 11:30:51 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 /*
  * Collection of synchronization objects for tests.

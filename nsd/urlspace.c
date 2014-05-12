@@ -38,7 +38,6 @@
  *	For full details see the file doc/urlspace.txt.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nsd/urlspace.c,v 1.11 2003/11/03 19:23:26 pkhincha Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "nsd.h"
 

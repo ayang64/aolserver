@@ -35,7 +35,6 @@
  *	initialization approach.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/examples/mynsd/mynsd.c,v 1.1 2005/08/08 12:14:30 jgdavidson Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "ns.h"
 

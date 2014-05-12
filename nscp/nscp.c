@@ -35,7 +35,6 @@
  *  	Tcl commands.
  */
 
-static const char *RCSID = "@(#) $Header: /Users/dossy/Desktop/cvs/aolserver/nscp/nscp.c,v 1.25 2008/06/20 08:06:32 gneumann Exp $, compiled: " __DATE__ " " __TIME__;
 
 #include "ns.h"
 
